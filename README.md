@@ -1,2 +1,2 @@
-# terraform-alicloud-clous-sso-user
-Terraform module which creates cloud sso user and adds its settings with other resources on Alibaba Cloud.
+# terraform-alicloud-cloud-sso-user
+Terraform module which creates cloud sso group and adds its settings with other resources on Alibaba Cloud.
